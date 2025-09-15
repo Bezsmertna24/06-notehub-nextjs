@@ -1,5 +1,5 @@
 import css from "./NotePage.module.css";
-import NoteListClient from "./NoteClient";
+import NoteListClient from "./Note.Client";
 import { fetchNotes } from "@/lib/api";
 import {
   QueryClient,
