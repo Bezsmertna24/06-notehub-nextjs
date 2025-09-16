@@ -30,6 +30,10 @@ export default function App() {
 
   const totalPages = data?.totalPages || 0;
 
+  function mmm () {
+    return '00000'
+  }
+
   return (
     <div className={css.app}>
       <header className={css.toolbar}>
