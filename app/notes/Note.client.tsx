@@ -65,3 +65,8 @@ export default function App() {
     </div>
   );
 }
+
+
+function error () {
+  return 'errror'
+}
